@@ -1,0 +1,7 @@
+.footer__column {
+  font-size: 18px;
+  font-weight: normal;
+  color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+}
