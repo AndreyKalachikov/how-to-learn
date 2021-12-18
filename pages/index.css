@@ -47,10 +47,10 @@
 @import url(../blocks/khan/khan__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/khan__buy-link/khan__buy-link.css);
 
-@import url(../blocks/section/__title/section__title.css);
-@import url(../blocks/section/__title/_theme/section__title_theme_dark.css);
-@import url(../blocks/section/__subtitle/section__subtitle.css);
-@import url(../blocks/section/__subtitle/_theme/section__subtitle_theme_dark.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__heading/table__heading.css);
